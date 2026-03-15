@@ -1,4 +1,4 @@
-# Hospitality Analytics Dashboard | Power BI | Excel
+# Marriotte Hospitality Analytics Dashboard | Power BI | Excel
 
 ## Overview
 This project involves the development of a data-driven dashboard to analyze key performance metrics in the hospitality sector. The dashboard provides insights into revenue, occupancy rates, realization percentages, and trends across different properties and platforms.
