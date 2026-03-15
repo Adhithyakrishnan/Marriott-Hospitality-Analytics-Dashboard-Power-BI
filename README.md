@@ -3,6 +3,10 @@
 ## Overview
 This project involves the development of a data-driven dashboard to analyze key performance metrics in the hospitality sector. The dashboard provides insights into revenue, occupancy rates, realization percentages, and trends across different properties and platforms.
 
+## Preview
+
+![Dashboard Preview](Dashboard%20Preview%20Image.png)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Project Description](#project-description)
